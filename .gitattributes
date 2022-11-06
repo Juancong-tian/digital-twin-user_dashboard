@@ -1,0 +1,4 @@
+E:/project/version[[:space:]]4[[:space:]]15-10/digital[[:space:]]platform[[:space:]]and[[:space:]]model.zip filter=lfs diff=lfs merge=lfs -text
+E:/project/digital[[:space:]]platform[[:space:]]and[[:space:]]model.zip filter=lfs diff=lfs merge=lfs -text
+E:/project/version[[:space:]]4[[:space:]]15-10/dataview filter=lfs diff=lfs merge=lfs -text
+/d[[:space:]]e:/project/version[[:space:]]4[[:space:]]15-10[[:space:]]digital[[:space:]]platform[[:space:]]and[[:space:]]model.zip filter=lfs diff=lfs merge=lfs -text
