@@ -1,5 +1,5 @@
 # digital-twin
-Front-end framework and model
+Front-end framework based on Vue and building digital models
 
 # UQ digital twin platform
 
